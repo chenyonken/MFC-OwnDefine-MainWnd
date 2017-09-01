@@ -1,0 +1,1 @@
+无法实现ComboBox的拉伸，如果使用ItemReisize对象来处理ComboBox控件的拉伸的话，下拉列表无法显示出来，原因未明

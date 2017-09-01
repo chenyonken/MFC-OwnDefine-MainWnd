@@ -1,0 +1,22 @@
+# Microsoft Developer Studio Generated Dependency File, included by wd.mak
+
+.\StdAfx.cpp : \
+	".\StdAfx.h"\
+	
+
+.\wd.cpp : \
+	".\StdAfx.h"\
+	".\wd.h"\
+	".\wdDlg.h"\
+	
+
+.\wd.rc : \
+	".\res\wd.ico"\
+	".\res\wd.rc2"\
+	
+
+.\wdDlg.cpp : \
+	".\StdAfx.h"\
+	".\wd.h"\
+	".\wdDlg.h"\
+	
